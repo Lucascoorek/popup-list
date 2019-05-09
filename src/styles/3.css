@@ -1,0 +1,6 @@
+.filter_item--hide {
+  display: none;
+}
+.filter_form {
+  max-width: 400px;
+}
